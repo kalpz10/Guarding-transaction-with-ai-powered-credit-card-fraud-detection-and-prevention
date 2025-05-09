@@ -17,6 +17,7 @@ An end-to-end Machine Learning Project carried out by Group 3 Zummit Africa AI/M
 - **Alagumonisha**
 - **Kalaiyarasi**
 - **Karpagam**
+
 You can check out the article on Medium describing in detail how this project was carried out.
 
 https://medium.com/mlearning-ai/credit-card-fraud-detection-2527ca04c3de
